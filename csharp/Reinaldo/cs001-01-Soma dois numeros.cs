@@ -1,9 +1,3 @@
-﻿/*
-    Algoritmo : 001
-    Objetivo  : Receber do usuário 2 valores e somá-los
-    Data      : 20/09/2022
-
-*/
 using System;
 
 class Proram
