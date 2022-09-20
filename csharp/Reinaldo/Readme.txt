@@ -1,1 +1,1 @@
-Soluções dos programas feitas pelo Reinaldo
+Aqui serão apresentadas as soluções dos algoritmos propostos feitas pelo Reinaldo

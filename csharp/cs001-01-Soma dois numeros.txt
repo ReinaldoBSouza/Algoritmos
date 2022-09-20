@@ -8,7 +8,7 @@ Linguagem codificada : CSharp
 
 Solução :
 
-	* Reinaldo --> pl001-01-Soma dois numeros.cs
+	* Reinaldo --> cs001-01-Soma dois numeros.cs
 	* Felipe --> 
 	* Pedro --> 
 
