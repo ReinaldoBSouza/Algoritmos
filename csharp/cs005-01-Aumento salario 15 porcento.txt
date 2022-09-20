@@ -8,7 +8,7 @@ Linguagem codificada : CSharp
 
 Solução :
 
-	* Reinaldo --> cs005-01-Aumento salario 15 porcento.por
+	* Reinaldo --> cs005-01-Aumento salario 15 porcento.cs
 	* Felipe --> 
 	* Pedro --> 
 

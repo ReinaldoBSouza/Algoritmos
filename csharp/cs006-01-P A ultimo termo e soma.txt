@@ -1,0 +1,20 @@
+
+Algoritmo : Calcular o an e a soma de uma P.A.
+
+Objetivo : Construir um algoritmo que receba:
+		 o valor do primeiro termo da P.A. (a1) 
+		 a razão da P.A. (r)
+		 a quantidade de termos da P.A. (n) 
+	  essas informações serão fornecidas pelo usuário. 
+	  Calcular o último termo da P.A. (an) e a soma de todos os termos (sn).
+
+Linguagem codificada : CSharp
+
+Solução :
+
+	* Reinaldo --> cs006-01-P A ultimo termo e soma.cs
+	* Felipe --> 
+	* Pedro --> 
+
+
+
