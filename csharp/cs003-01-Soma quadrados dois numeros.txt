@@ -8,7 +8,7 @@ Linguagem codificada : CSharp
 
 Solução :
 
-	* Reinaldo --> pl003-01-Soma quadrado dois numeros.cs
+	* Reinaldo --> cs003-01-Soma quadrado dois numeros.cs
 	* Felipe --> 
 	* Pedro --> 
 

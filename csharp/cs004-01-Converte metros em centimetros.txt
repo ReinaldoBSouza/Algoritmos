@@ -8,7 +8,7 @@ Linguagem codificada : CSharp
 
 Solução :
 
-	* Reinaldo --> pl004-01-Converte metros em centimetros.cs
+	* Reinaldo --> cs004-01-Converte metros em centimetros.cs
 	* Felipe --> 
 	* Pedro --> 
 

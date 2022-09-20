@@ -8,7 +8,7 @@ Linguagem codificada : CSharp
 
 Solução :
 
-	* Reinaldo --> pl002-01-Media quatro numeros.cs
+	* Reinaldo --> cs002-01-Media quatro numeros.cs
 	* Felipe --> 
 	* Pedro --> 
 
