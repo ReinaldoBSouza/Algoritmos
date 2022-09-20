@@ -1,0 +1,16 @@
+
+Algoritmo : Calcular aumento de salário
+
+Objetivo : Construir um algoritmo que receba o nome do colaborador e o valor do salário (inteiro ou flutuante) informado pelo usuário 
+	   que irá receber um aumento de 15% e exibir o nome e o valor do novo salário.
+
+Linguagem codificada : CSharp
+
+Solução :
+
+	* Reinaldo --> cs005-01-Aumento salario 15 porcento.por
+	* Felipe --> 
+	* Pedro --> 
+
+
+
