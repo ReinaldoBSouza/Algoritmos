@@ -1,0 +1,18 @@
+
+Algoritmo : Calcular o juros simples e compostos sobre um capital
+
+Objetivo : Elabore um algoritmo que receba o valor do capital (c) que será aplicado ou emprestado no Banco JEDI.
+           O usuário deverá informar também a taxa de juros (i) e o tempo (t).
+	   Exibir o valor dos juros (j) e montantes (m) envolvidos.
+
+
+Linguagem codificada : Portugol
+
+Solução :
+
+	* Reinaldo --> pl006-01-Juros simples e compostos.por
+	* Felipe --> 
+	* Pedro --> 
+
+
+
