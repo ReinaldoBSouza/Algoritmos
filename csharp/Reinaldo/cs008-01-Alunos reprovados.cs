@@ -30,7 +30,7 @@
 
             Console.WriteLine("\n\nO número de alunos reprovados na turma B : " + reprovD +" alunos");
 
-            Console.Write("\n\nO percentual total dos alunos reprovados [ " + (reprovC+reprovD) + " ] alunos equvale a "+ ((reprovC+reprovD)/80)*100 + " % dos alunos das duas turmas");
+            Console.Write("\n\nO percentual total dos alunos reprovados [ " + (reprovC+reprovD) + " ] alunos equvale a "+ ((reprovC+reprovD)/(turmaC+turmaD))*100 + " % dos alunos das duas turmas");
 
 
 
