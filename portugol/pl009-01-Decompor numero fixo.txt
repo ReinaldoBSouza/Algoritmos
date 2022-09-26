@@ -9,11 +9,11 @@ Objetivo : Elabore um algoritmo que faça a decomposição do número 1738
 
      
 
-Linguagem codificada : CSharp
+Linguagem codificada : Portugol
 
 Solução :
 
-	* Reinaldo --> cs010-01-Decompor numero.cs
+	* Reinaldo --> pl009-01-Decompor numero fixo.por
 	* Felipe --> 
 	* Pedro --> 
 

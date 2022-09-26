@@ -1,0 +1,17 @@
+Algoritmo : Dividir o total de alunos em 3 turmas
+
+Objetivo : Ajudar o mestre Yoda a dividir os novos alunos no Templo Jedi.
+
+	O mestre Yoda deseja dividir os novos alunos de uma série em três turmas. Entretanto, deverá ocorrer um
+	equilíbrio no número de alunos em cada turma. Caso ocorra uma diferença no número de alunos, esta diferença
+	deverá ser a mínima. Escreva um algoritmo que leia o número total de alunos da série.
+	calcule e mostre o número de alunos em cada turma
+
+Linguagem codificada : CSharp
+
+Solução :
+
+	* Reinaldo --> cs011-01-Divide turmas.cs
+	* Felipe --> 
+	* Pedro --> 
+
