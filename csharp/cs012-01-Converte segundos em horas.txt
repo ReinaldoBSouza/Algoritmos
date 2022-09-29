@@ -1,0 +1,14 @@
+Algoritmo : Converter segundos (s) em horas h:min:s
+
+Objetivo Fazer um algoritmo que receba uma quantidade de segundos e transforme em --> horas:minutos:segundos
+
+	
+
+Linguagem codificada : CSharp
+
+Solução :
+
+	* Reinaldo --> cs012-01-Converte segundos em horas.cs
+	* Felipe --> 
+	* Pedro --> 
+

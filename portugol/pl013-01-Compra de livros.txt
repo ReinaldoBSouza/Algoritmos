@@ -1,0 +1,17 @@
+Algoritmo : Calcula o valor unitário pela aquisiçao de livros
+
+Objetivo  Elaborar um algoritmo que leia a quqntidade de livros que o Cliente deseja adquirir e exiba 
+	  na tela o valor dessa compra considerando as duas opções:
+          Sendo que o valor unitário de um livro que na promoção custa R$ 12,00, caso o cliente comprar 
+	  até dez livros.
+	  Caso contrário, o preço unitário do livro será de R$ 8,00. Escreva um algoritmo que leia o número de
+	  livros comprados, calcule e mostre o valor total que o cliente deverá pagar.
+
+Linguagem codificada : Portugol
+
+Solução :
+
+	* Reinaldo --> pl013-01-Compra de livros.por
+	* Felipe --> 
+	* Pedro --> 
+
