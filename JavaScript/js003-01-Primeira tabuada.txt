@@ -1,0 +1,13 @@
+
+Algoritmo : Calcula a tubuada de um numero fixo
+
+Objetivo : Construir um algoritmo que calcule a tabuada do 5 e do 9 exibindo esse resultado na tela.
+
+Linguagem codificada : JavaScript
+
+Solução :
+
+	* Reinaldo --> js003-01-Primeira tabuada.html
+	* Felipe --> 
+	* Pedro --> 
+

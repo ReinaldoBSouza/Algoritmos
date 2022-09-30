@@ -1,0 +1,14 @@
+
+Algoritmo : Calcula a procentagem de 30 acertos numa prova de 50 questões
+
+Objetivo : Construir um algoritmo que calcule a porcentagem de 30 acertos numa prova de 50 questões e exiba 
+	   esse resultado.
+
+Linguagem codificada : JavaScript
+
+Solução :
+
+	* Reinaldo --> js002-01-Acertos prova.html
+	* Felipe --> 
+	* Pedro --> 
+
